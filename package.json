@@ -1,0 +1,25 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tal-rofe/vitest-bug-reproduction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tal-rofe/vitest-bug-reproduction/issues"
+  },
+  "homepage": "https://github.com/tal-rofe/vitest-bug-reproduction#readme",
+  "devDependencies": {
+    "@types/sinon": "^10.0.11",
+    "sinon": "^13.0.2",
+    "vitest": "^0.10.5"
+  }
+}
